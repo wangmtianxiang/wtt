@@ -15,6 +15,7 @@ public class ser1Test {
         System.out.println("222222222");
         System.out.println("222222222");
         System.out.println("222222222");
+        System.out.println("3333");
     }
 
 
